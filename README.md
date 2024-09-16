@@ -27,6 +27,7 @@ This is the collection of resources we put together during the show and you can 
         - [Hilla](https://hilla.dev/)
         - [JHipster](https://www.jhipster.tech/)
 - Spring Template languages
+    - [Pebble Template](https://pebbletemplates.io/)
     - [Thymeleaf](https://www.thymeleaf.org/)
     - [Mustache](https://mustache.github.io/)
     - [Groovy](https://docs.spring.io/spring-framework/reference/web/webmvc-view/mvc-groovymarkup.html)
